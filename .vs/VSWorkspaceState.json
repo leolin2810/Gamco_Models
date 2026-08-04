@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.git"
   ],
-  "SelectedNode": "\\Gamco_Models",
+  "SelectedNode": "\\.git\\refs",
   "PreviewInSolutionExplorer": false
 }
