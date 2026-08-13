@@ -1,8 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.git"
+    "\\Models",
+    "\\Models\\Balcony_Doors",
+    "\\Models\\Balcony_Doors\\BD325",
+    "\\Models\\Curtain_Walls",
+    "\\Models\\Curtain_Walls\\CW250 3.875"
   ],
-  "SelectedNode": "\\.git\\refs",
+  "SelectedNode": "\\Models\\Balcony_Doors\\BD325",
   "PreviewInSolutionExplorer": false
 }
