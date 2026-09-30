@@ -3,7 +3,6 @@
     "",
     "\\Models",
     "\\Models\\Balcony_Doors",
-    "\\Models\\Balcony_Doors\\BD3001-BD3000",
     "\\Models\\Balcony_Doors\\BD325",
     "\\Models\\Balcony_Doors\\BD325\\Pair",
     "\\Models\\Balcony_Doors\\BD325\\Pair\\Framed",
@@ -12,6 +11,6 @@
     "\\Models\\Doors",
     "\\Models\\Doors\\D200"
   ],
-  "SelectedNode": "\\Models\\Balcony_Doors\\BD3001-BD3000\\BD.3000.0000.FR.01.BK.glb",
+  "SelectedNode": "\\Models\\Balcony_Doors\\BD3001-BD3000\\BD.3000.0000.FR.02.BK.glb",
   "PreviewInSolutionExplorer": false
 }
