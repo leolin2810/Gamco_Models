@@ -1,7 +1,6 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Models",
     "\\Models\\Balcony_Doors",
     "\\Models\\Balcony_Doors\\BD325",
     "\\Models\\Balcony_Doors\\BD325\\Pair",
@@ -11,6 +10,6 @@
     "\\Models\\Doors",
     "\\Models\\Doors\\D200"
   ],
-  "SelectedNode": "\\Models\\Balcony_Doors\\BD3001-BD3000\\BD.3000.0000.FR.02.BK.glb",
+  "SelectedNode": "\\Handing Animation.mp4",
   "PreviewInSolutionExplorer": false
 }
